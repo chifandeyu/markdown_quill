@@ -12,7 +12,7 @@ dependencies:
   flutter_quill:
     git:
       url: https://github.com/fbsocial/fb_flutter_quill.git
-      ref: feature/develop-6.3.5
+      ref: feature/develop-6.3.5-desktop
   markdown: ^7.0.1
 
 dev_dependencies:
